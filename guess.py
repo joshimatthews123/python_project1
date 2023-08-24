@@ -37,3 +37,5 @@ if userIntrest != "yes":
         quit()
     elif userIntrest == "n":
         gameOn()
+elif userIntrest == "yes":
+    gameOn()
